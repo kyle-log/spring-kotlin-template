@@ -1,4 +1,4 @@
-package com.kylelog
+package com.cocomo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
