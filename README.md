@@ -1,1 +1,2 @@
-# spring-kotlin-template
+# Spring Kotlin Template
+A spring-based kotlin app template.
